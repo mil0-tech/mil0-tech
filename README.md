@@ -3,7 +3,7 @@
 I am a second-semester BTech CSE(AI) student at KCCITM. 
 
 ### What I'm up to:
-* 💻 Currently learning: [Insert your current language, e.g., Python/C++]
+* 💻 Currently learning: C | C++ | HTML
 * 🚀 Goals: Building a solid foundation in software development and AI.
 
 ### Off the clock:
